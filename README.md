@@ -1,0 +1,2 @@
+# AmazonConnectSample
+アマゾンコネクトでお問い合わせデモアプリを作成する
